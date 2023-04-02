@@ -1,0 +1,11 @@
+﻿  camera space.cpp
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(112,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(112,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(113,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(113,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(114,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(114,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(162,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(337,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Оксана\Desktop\с++\camera space\camera space.cpp(371,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  camera space.vcxproj -> C:\Users\Оксана\Desktop\с++\camera space\x64\Debug\camera space.exe

@@ -1,0 +1,3 @@
+﻿  scale transformations.cpp
+C:\Users\Оксана\Desktop\с++\scale transformations\scale transformations.cpp(117,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  scale transformations.vcxproj -> C:\Users\Оксана\Desktop\с++\scale transformations\x64\Debug\scale transformations.exe

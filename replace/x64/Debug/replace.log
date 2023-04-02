@@ -1,0 +1,3 @@
+﻿  replace.cpp
+C:\Users\Оксана\Desktop\с++\replace\replace.cpp(116,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  replace.vcxproj -> C:\Users\Оксана\Desktop\с++\replace\x64\Debug\replace.exe

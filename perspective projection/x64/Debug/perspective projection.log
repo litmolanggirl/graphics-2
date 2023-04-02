@@ -1,0 +1,11 @@
+﻿  perspective projection.cpp
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(141,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(141,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(142,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(142,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(143,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(143,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(177,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(273,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Оксана\Desktop\с++\perspective projection\perspective projection.cpp(306,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  perspective projection.vcxproj -> C:\Users\Оксана\Desktop\с++\perspective projection\x64\Debug\perspective projection.exe
